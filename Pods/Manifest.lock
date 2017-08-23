@@ -1,0 +1,14 @@
+PODS:
+  - ProcedureKit (4.3.1):
+    - ProcedureKit/Standard (= 4.3.1)
+  - ProcedureKit/Standard (4.3.1)
+
+DEPENDENCIES:
+  - ProcedureKit (~> 4.3.0)
+
+SPEC CHECKSUMS:
+  ProcedureKit: daeec119eed0b8fdcce43343fbe914a16746b6ea
+
+PODFILE CHECKSUM: 4878fc8ccc18ea687defdc76919237381d64f97b
+
+COCOAPODS: 1.2.1
